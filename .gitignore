@@ -1,8 +1,7 @@
 *
-!*/
-
-# track this file
+!.gitattributes
 !.gitignore
-
-# whitelist everything in ./config/
-!/**/.pdf
+!readme.md
+!.gitkeep
+!*.pdf
+!*/
